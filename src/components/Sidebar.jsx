@@ -14,7 +14,7 @@ import heat from "../assets/images/heat-iconn.png";
 import ac from "../assets/images/ac-iconn.png";
 import chimney from "../assets/images/chimney-iconn.png";
 import avatar from "../assets/images/Avatar.png";
-import faq_icon from "../assets/images/icon.png";
+import faq_icon from "../assets/images/iconn.png";
 import logout from "../assets/images/log-out-01.png";
 import { useLocation } from "react-router-dom";
 
