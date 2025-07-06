@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import logo from "../assets/images/logo.png";
 import home from "../assets/images/home-line.png";
-import task from "../assets/images/task_icon.png";
+import taskicon from "../assets/images/task-iconn.png";
 import parts from "../assets/images/parts_icon.png";
 import job from "../assets/images/job_icom.png";
 import options from "../assets/images/option-icon.png";
@@ -24,7 +24,7 @@ const Sidebar = () => {
 
   const bookItems = [
     { name: "Dashboard", icon: home, url: "/Dashboard" },
-    {name: "Tasks", icon: task, url: "/Home/Tasks" },
+    {name: "Tasks", icon: taskicon, url: "/Home/Tasks" },
     {name: "Parts", icon: parts, url: "#" },
     { name: "Quick Job", icon: job, url: "#" },
     { name: "Prebuilt Option Groups", icon: options, url: "#" },
