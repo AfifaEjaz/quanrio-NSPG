@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+    font-family: Creato Display;
+    src: url("./assets/font/CreatoDisplay-Medium.otf");
+}
+
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #FBFBFB;
+    --color-secondary: #FBFBFB;
+    --color-text: #1E1E1E;
+    --color-gray: #344054;
+    --color-light-gray: #667085;
+    --color-white: #ffffff;
+    --color-border-color: #EAECF0;
+    --color-blue: #05A5CB;
+    --font-inter: Inter;
+    --font-creato-medium: Creato Display;
+}
+
+body{
+  font-family: "Inter", sans-serif;
+}
