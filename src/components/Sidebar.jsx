@@ -5,7 +5,7 @@ import home from "../assets/images/home-line.png";
 import taskicon from "../assets/images/task-iconn.png";
 import parts from "../assets/images/parts-icon.png";
 import job from "../assets/images/job-icon.png";
-import optionicon from "../assets/images/option-icon.png";
+import optionicon from "../assets/images/option-iconn.png";
 import customer from "../assets/images/customer-icon.png";
 import plumbing from "../assets/images/plumbing-icon.png";
 import electric from "../assets/images/electric-icon.png";
