@@ -5,7 +5,7 @@ import home from "../assets/images/home-line.png";
 import taskicon from "../assets/images/task-iconn.png";
 import parts from "../assets/images/parts-icon.png";
 import job from "../assets/images/job-icon.png";
-import options from "../assets/images/option-icon.png";
+import optionicon from "../assets/images/option-icon.png";
 import customer from "../assets/images/customer-icon.png";
 import plumbing from "../assets/images/plumbing-icon.png";
 import electric from "../assets/images/electric-icon.png";
@@ -27,7 +27,7 @@ const Sidebar = () => {
     {name: "Tasks", icon: taskicon, url: "/Home/Tasks" },
     {name: "Parts", icon: parts, url: "#" },
     { name: "Quick Job", icon: job, url: "#" },
-    { name: "Prebuilt Option Groups", icon: options, url: "#" },
+    { name: "Prebuilt Option Groups", icon: optionicon, url: "#" },
     { name: "Customer Info", icon: customer, url: "#" },
   ];
 
